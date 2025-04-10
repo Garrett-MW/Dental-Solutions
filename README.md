@@ -14,7 +14,7 @@ AUTHOR: Garrett Womack
     4.Add a new apt if that don't already have one
     5.Patient cannot have more than one shceduled apt
 
-  -Dentist:
+  - Dentist:
     1.Login
     2.View/Change account info
     3.View upcoming appoitments 
